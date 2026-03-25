@@ -1,3 +1,11 @@
+// SPDX-FileCopyrightText: 2026 Alexander Zvolinskiy <aezv.global@gmail.com>
+// SPDX-License-Identifier: MIT
+
+/**
+ * @file    tm1638lk.h
+ * @brief   Заголовочный файл библиотеки для работы с модулем TM1638 led&key
+ */
+
 #ifndef TM1638LK_H
 #define TM1638LK_H
 
